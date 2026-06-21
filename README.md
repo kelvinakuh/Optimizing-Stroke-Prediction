@@ -12,7 +12,6 @@ To run this project, you will need **Python 3.x** installed along with the follo
 * **Class Imbalance**: imbalanced-learn (for SMOTE)  
 * **Optimization**: scikit-optimize (for Bayesian Tuning)  
 * **Explainability**: shap   
-* **Hardware Check**: tensorflow (optional, used for GPU verification)
 
 You can install these via pip:
 
